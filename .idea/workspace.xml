@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" afterDir="false" />
-    </list>
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio072-Numero_por_Extenso.py' da 'aula 16'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760621622322</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adicionando a resolução ao arquivo 'desafio072-Numero_por_Extenso.py' da 'aula 16'">
+      <option name="closed" value="true" />
+      <created>1760622200733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1760622200733</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +92,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'." />
+    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio072-Numero_por_Extenso.py' da 'aula 16'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio072-Numero_por_Extenso.py' da 'aula 16'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
