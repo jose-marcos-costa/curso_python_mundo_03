@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exemplos/aula16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula16a.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
     "Python.aula16.executor": "Run",
     "Python.aula16a.executor": "Run",
     "Python.criador_de_arquivos_python_v2_0.executor": "Run",
+    "Python.desafio072-Numero_por_Extenso.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
@@ -72,10 +71,23 @@
       <updated>1760611852922</updated>
       <workItem from="1760611854232" duration="1784000" />
     </task>
+    <task id="LOCAL-00001" summary="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
+      <option name="closed" value="true" />
+      <created>1760621622322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1760621622322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -89,6 +101,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio072_Numero_por_Extenso.coverage" NAME="desafio072-Numero_por_Extenso Coverage Results" MODIFIED="1760622089094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16a.coverage" NAME="aula16a Coverage Results" MODIFIED="1760620544178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16.coverage" NAME="aula16 Coverage Results" MODIFIED="1760619380217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$criador_de_arquivos_python_v2_0.coverage" NAME="criador_de_arquivos_python_v2_0 Coverage Results" MODIFIED="1760614651015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../criando_nomes_para_arquivos_automaticamente" />
