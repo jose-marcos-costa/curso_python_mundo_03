@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio095-Funcao_de_Fatorial.py' foi criado automaticamente

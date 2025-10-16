@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio072-Numero_por_Extenso.py' foi criado automaticamente

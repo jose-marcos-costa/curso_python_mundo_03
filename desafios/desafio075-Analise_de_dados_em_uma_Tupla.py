@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio075-Analise_de_dados_em_uma_Tupla.py' foi criado automaticamente

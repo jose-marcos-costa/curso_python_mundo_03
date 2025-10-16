@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio102-String_para_Float.py' foi criado automaticamente

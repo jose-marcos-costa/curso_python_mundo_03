@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio099-Funcao_de_contador_personalizado.py' foi criado automaticamente

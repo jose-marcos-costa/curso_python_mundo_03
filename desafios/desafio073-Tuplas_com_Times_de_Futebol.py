@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio073-Tuplas_com_Times_de_Futebol.py' foi criado automaticamente
