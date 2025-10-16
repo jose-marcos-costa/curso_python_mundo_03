@@ -5,8 +5,9 @@ numeros = (
     'quinze', 'dezesseis', 'dezessete', 'dezoito',
     'dezenove', 'vinte'
 )
-teclado = int(input('Digite um número [0 a 20]: '))
-while teclado < 0 or teclado > 20:
-    print(f'Número Inválido!')
+while True:
     teclado = int(input('Digite um número [0 a 20]: '))
+    if 0 <= teclado <= 20:
+        break
+    print(f'Número Inválido!')
 print(f'Você digitou o número {numeros[teclado]}')

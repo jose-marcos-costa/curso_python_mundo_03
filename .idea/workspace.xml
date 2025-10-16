@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio077-Contando_Vogais_em_Tupla.py' da 'aula 16'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio077-Contando_Vogais_em_Tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio077-Contando_Vogais_em_Tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760638943049</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Adicionando a resolução ao arquivo 'desafio077-Contando_Vogais_em_Tupla.py' da 'aula 16'">
+      <option name="closed" value="true" />
+      <created>1760641142445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760641142445</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +163,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio074-Maior_e_Menor_em_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio075-Analise_de_dados_em_uma_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'" />
+    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio077-Contando_Vogais_em_Tupla.py' da 'aula 16'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio077-Contando_Vogais_em_Tupla.py' da 'aula 16'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
