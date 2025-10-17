@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio077-Contando_Vogais_em_Tupla.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio077-Contando_Vogais_em_Tupla.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio073-Tuplas_com_Times_de_Futebol.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio073-Tuplas_com_Times_de_Futebol.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,12 @@
     &quot;assignee&quot;: &quot;jose-marcos-costa&quot;
   }
 }</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jose-marcos-costa/curso_python_mundo_03.git",
+    "accountId": "bb7c9583-adfb-42a4-ba41-1e75f920710d"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -50,6 +56,7 @@
     "Python.desafio076-Lista_de_Precos_com_Tupla.executor": "Run",
     "Python.desafio077-Contando_Vogais_em_Tupla.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,6 +82,7 @@
       <option name="presentableId" value="Default" />
       <updated>1760611852922</updated>
       <workItem from="1760611854232" duration="1784000" />
+      <workItem from="1760681288104" duration="371000" />
     </task>
     <task id="LOCAL-00001" summary="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
       <option name="closed" value="true" />
@@ -140,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760638943049</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'">
+      <option name="closed" value="true" />
+      <created>1760642955305</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760642955305</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,7 +171,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio074-Maior_e_Menor_em_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio075-Analise_de_dados_em_uma_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'" />
+    <MESSAGE value="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -165,11 +182,16 @@
           <line>3</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/desafios/desafio072-Numero_por_Extenso.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio072_Numero_por_Extenso.coverage" NAME="desafio072-Numero_por_Extenso Coverage Results" MODIFIED="1760632067809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio072_Numero_por_Extenso.coverage" NAME="desafio072-Numero_por_Extenso Coverage Results" MODIFIED="1760642057954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio074_Maior_e_Menor_em_Tupla.coverage" NAME="desafio074-Maior_e_Menor_em_Tupla Coverage Results" MODIFIED="1760634971069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16a.coverage" NAME="aula16a Coverage Results" MODIFIED="1760620544178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16.coverage" NAME="aula16 Coverage Results" MODIFIED="1760619380217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
