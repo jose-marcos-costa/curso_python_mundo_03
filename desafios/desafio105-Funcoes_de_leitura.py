@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio105-Funcoes_de_leitura.py' foi criado automaticamente

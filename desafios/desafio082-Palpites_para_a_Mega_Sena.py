@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio082-Palpites_para_a_Mega_Sena.py' foi criado automaticamente

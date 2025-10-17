@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio104-Interagindo_com_arquivos.py' foi criado automaticamente

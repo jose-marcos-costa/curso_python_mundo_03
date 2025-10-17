@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio113-Funcoes_aprofundadas_em_Python.py' foi criado automaticamente

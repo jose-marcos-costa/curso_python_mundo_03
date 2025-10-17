@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio100-Funcao_que_calcula_potencia.py' foi criado automaticamente

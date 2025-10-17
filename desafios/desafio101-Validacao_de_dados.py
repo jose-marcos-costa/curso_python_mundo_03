@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio101-Validacao_de_dados.py' foi criado automaticamente

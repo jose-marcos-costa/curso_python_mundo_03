@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio087-Cadastro_de_Jogador_de_Futebol.py' foi criado automaticamente

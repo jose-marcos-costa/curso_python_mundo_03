@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio085-Jogo_de_Dados.py' foi criado automaticamente

@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio094-Funcao_de_Palavras.py' foi criado automaticamente

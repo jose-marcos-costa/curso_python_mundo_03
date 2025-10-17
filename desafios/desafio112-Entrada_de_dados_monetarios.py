@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio112-Entrada_de_dados_monetarios.py' foi criado automaticamente

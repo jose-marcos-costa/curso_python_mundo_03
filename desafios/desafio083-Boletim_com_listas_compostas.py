@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio083-Boletim_com_listas_compostas.py' foi criado automaticamente

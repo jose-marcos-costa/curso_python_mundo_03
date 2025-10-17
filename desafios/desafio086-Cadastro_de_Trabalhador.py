@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio086-Cadastro_de_Trabalhador.py' foi criado automaticamente
