@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio100-Funcoes_Para_Sortear_E_Somar.py' foi criado automaticamente

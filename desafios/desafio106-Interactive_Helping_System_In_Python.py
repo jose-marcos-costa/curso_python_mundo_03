@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio106-Interactive_Helping_System_In_Python.py' foi criado automaticamente

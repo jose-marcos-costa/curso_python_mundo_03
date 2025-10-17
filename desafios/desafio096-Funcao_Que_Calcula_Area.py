@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio096-Funcao_Que_Calcula_Area.py' foi criado automaticamente

@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio095-Aprimorando_Os_Dicionarios.py' foi criado automaticamente

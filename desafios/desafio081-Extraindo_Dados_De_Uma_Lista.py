@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio081-Extraindo_Dados_De_Uma_Lista.py' foi criado automaticamente

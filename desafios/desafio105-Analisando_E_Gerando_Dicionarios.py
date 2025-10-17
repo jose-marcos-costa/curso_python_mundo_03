@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio105-Analisando_E_Gerando_Dicionarios.py' foi criado automaticamente

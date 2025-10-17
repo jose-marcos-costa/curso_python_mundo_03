@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio092-Cadastro_De_Trabalhador_Em_Python.py' foi criado automaticamente

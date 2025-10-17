@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio084-Lista_Composta_E_Analise_De_Dados.py' foi criado automaticamente

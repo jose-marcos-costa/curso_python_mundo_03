@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio085-Listas_Com_Pares_E_Impares.py' foi criado automaticamente

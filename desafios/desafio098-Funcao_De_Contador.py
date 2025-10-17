@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio098-Funcao_De_Contador.py' foi criado automaticamente

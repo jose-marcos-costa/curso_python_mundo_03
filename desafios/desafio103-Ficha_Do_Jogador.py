@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio103-Ficha_Do_Jogador.py' foi criado automaticamente

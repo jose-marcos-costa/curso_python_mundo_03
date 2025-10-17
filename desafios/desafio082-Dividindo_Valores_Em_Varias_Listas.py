@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio082-Dividindo_Valores_Em_Varias_Listas.py' foi criado automaticamente

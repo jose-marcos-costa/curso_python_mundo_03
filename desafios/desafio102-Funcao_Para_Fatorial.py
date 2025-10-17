@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio102-Funcao_Para_Fatorial.py' foi criado automaticamente

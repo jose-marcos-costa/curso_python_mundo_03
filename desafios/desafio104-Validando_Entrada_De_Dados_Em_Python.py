@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio104-Validando_Entrada_De_Dados_Em_Python.py' foi criado automaticamente

@@ -1,0 +1,1 @@
+# O arquivo './desafios/desafio089-Boletim_Com_Listas_Compostas.py' foi criado automaticamente
