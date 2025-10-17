@@ -1,1 +1,16 @@
-# O arquivo './desafios/desafio079-Valores_Unicos_em_uma_Lista.py' foi criado automaticamente
+valores = []
+opcao = 'S'
+while opcao == 'S':
+    num = int(input(f'Digite um número: '))
+    if num not in valores:
+        valores.append(num)
+        print('Valor adicionado com sucesso...')
+    else:
+        print('Valor duplicado! Não vou adicionar...')
+    while True:
+        opcao = str(input('Deseja continuar? [S/N] ')).strip().upper()[0]
+        if opcao in 'SN':
+            break
+print('-=' * 40)
+valores.sort()
+print(f'Você digitou os valores {valores}')
