@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando os arquivos com exemplos da 'aula 18'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio084-Lista_Composta_E_Analise_De_Dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio084-Lista_Composta_E_Analise_De_Dados.py" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resoluçãpo ao arquivo 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'">
+      <change beforePath="$PROJECT_DIR$/desafios/desafio085-Listas_Com_Pares_E_Impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio085-Listas_Com_Pares_E_Impares.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,49 +42,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.criador_de_arquivos_python_v2_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio072-Numero_por_Extenso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio073-Tuplas_com_Times_de_Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio076-Lista_de_Precos_com_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio077-Contando_Vogais_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio079-Valores_Unicos_em_uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula16.executor": "Run",
+    "Python.aula16a.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula17a.executor": "Run",
+    "Python.aula17b.executor": "Run",
+    "Python.aula17c.executor": "Run",
+    "Python.aula18.executor": "Run",
+    "Python.aula18a.executor": "Run",
+    "Python.aula18b.executor": "Run",
+    "Python.criador_de_arquivos_python_v2_0.executor": "Run",
+    "Python.desafio072-Numero_por_Extenso.executor": "Run",
+    "Python.desafio073-Tuplas_com_Times_de_Futebol.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla.executor": "Run",
+    "Python.desafio076-Lista_de_Precos_com_Tupla.executor": "Run",
+    "Python.desafio077-Contando_Vogais_em_Tupla.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista.executor": "Run",
+    "Python.desafio079-Valores_Unicos_em_uma_Lista.executor": "Run",
+    "Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor": "Run",
+    "Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor": "Run",
+    "Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas.executor": "Run",
+    "Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor": "Run",
+    "Python.desafio085-Listas_Com_Pares_E_Impares.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zeze_\Dropbox\Zé\001 - Wyden - Ciência de Dados\Período 01\01 - Paradigmas de Linguagens de Programação e Python\Curso em Vídeo - Python Mundo 3\curso_em_video_python_mundo_03\desafios" />
@@ -109,7 +109,7 @@
       <workItem from="1760611854232" duration="1784000" />
       <workItem from="1760681288104" duration="21519000" />
       <workItem from="1760780096123" duration="8548000" />
-      <workItem from="1760813532019" duration="1524000" />
+      <workItem from="1760813532019" duration="2291000" />
     </task>
     <task id="LOCAL-00001" summary="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
       <option name="closed" value="true" />
@@ -351,14 +351,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760787622961</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Adicionando a resoluçãpo ao arquivo 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'">
+      <option name="closed" value="true" />
+      <created>1760815171964</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1760815171964</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio074-Maior_e_Menor_em_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio075-Analise_de_dados_em_uma_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'" />
@@ -383,7 +390,8 @@
     <MESSAGE value="Adicioanndo a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'" />
     <MESSAGE value="Adicionando a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'" />
     <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 18'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando os arquivos com exemplos da 'aula 18'" />
+    <MESSAGE value="Adicionando a resoluçãpo ao arquivo 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resoluçãpo ao arquivo 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -408,6 +416,7 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17c.coverage" NAME="aula17c Coverage Results" MODIFIED="1760688473398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16a.coverage" NAME="aula16a Coverage Results" MODIFIED="1760620544178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio082_Dividindo_Valores_Em_Varias_Listas.coverage" NAME="desafio082-Dividindo_Valores_Em_Varias_Listas Coverage Results" MODIFIED="1760783614058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio085_Listas_Com_Pares_E_Impares.coverage" NAME="desafio085-Listas_Com_Pares_E_Impares Coverage Results" MODIFIED="1760815840308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17a.coverage" NAME="aula17a Coverage Results" MODIFIED="1760687812216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas_GUANABARA.coverage" NAME="desafio083-Validando_Expressoes_Matematicas-GUANABARA Coverage Results" MODIFIED="1760784473820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas.coverage" NAME="desafio083-Validando_Expressoes_Matematicas Coverage Results" MODIFIED="1760734889763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
