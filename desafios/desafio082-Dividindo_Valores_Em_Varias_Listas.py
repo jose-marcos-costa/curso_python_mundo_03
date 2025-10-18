@@ -1,4 +1,6 @@
 numeros = []
+impares = []
+pares = []
 while True:
     numeros.append(int(input('Digite um valor: ')))
     while True:
@@ -7,8 +9,6 @@ while True:
             break
     if opcao == 'N':
         break
-impares = []
-pares = []
 for n in numeros:
     if n % 2 == 0:
         pares.append(n)
