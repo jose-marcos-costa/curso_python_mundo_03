@@ -1,6 +1,5 @@
 valores = []
-opcao = 'S'
-while opcao == 'S':
+while True:
     num = int(input(f'Digite um número: '))
     if num not in valores:
         valores.append(num)
@@ -11,6 +10,8 @@ while opcao == 'S':
         opcao = str(input('Deseja continuar? [S/N] ')).strip().upper()[0]
         if opcao in 'SN':
             break
-print('-=' * 40)
+    if opcao == 'N':
+        break
+print('-=' * 30)
 valores.sort()
 print(f'Você digitou os valores {valores}')
