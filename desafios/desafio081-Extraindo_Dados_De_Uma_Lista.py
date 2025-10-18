@@ -1,11 +1,12 @@
 valores = []
-opcao = 'S'
-while opcao == 'S':
+while True:
     valores.append(int(input('Digite um valor: ')))
     while True:
         opcao = str(input('Deseja continuar? [S/N] ')).strip().upper()[0]
         if opcao in 'SN':
             break
+    if opcao == 'N':
+        break
 print('-=' * 30)
 print(f'Você digitou {len(valores)} elementos')
 valores.sort(reverse=True)
