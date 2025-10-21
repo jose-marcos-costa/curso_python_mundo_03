@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo a resolução do 'desafio086-Matriz_Em_Python.py' da 'aula 18'">
-      <change afterPath="$PROJECT_DIR$/exemplos/aula19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula19a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula19b.py" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando as arquivos com exemplos da 'aula 19'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio090-Dicionario_Em_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio090-Dicionario_Em_Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +119,7 @@
       <workItem from="1760780096123" duration="8548000" />
       <workItem from="1760813532019" duration="9712000" />
       <workItem from="1760866267088" duration="6438000" />
-      <workItem from="1761065549021" duration="3113000" />
+      <workItem from="1761065549021" duration="3846000" />
     </task>
     <task id="LOCAL-00001" summary="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
       <option name="closed" value="true" />
@@ -435,14 +433,21 @@
       <option name="project" value="LOCAL" />
       <updated>1760873096583</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Adicionando as arquivos com exemplos da 'aula 19'">
+      <option name="closed" value="true" />
+      <created>1761070297199</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1761070297199</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 17'" />
     <MESSAGE value="Adicionando as resoluções aos arquivos 'desafio078-Maior_e_Menor_na_Lista-VERSAO2.py' e 'desafio078-Maior_e_Menor_na_Lista.py' da 'aula 17'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio079-Valores_Unicos_em_uma_Lista.py' da 'aula 17'" />
     <MESSAGE value="Corrigindo os nomes dos arquivos dos desafios  (080 a 115) do curso de Python 3 - Mundo 3 (Exclusão dos arquivos com nomes errados)" />
@@ -467,7 +472,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio089-Boletim_Com_Listas_Compostas.py' da 'aula 18'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio086-Matriz_Em_Python.py' da 'aula 18'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo a resolução do 'desafio086-Matriz_Em_Python.py' da 'aula 18'" />
+    <MESSAGE value="Adicionando as arquivos com exemplos da 'aula 19'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando as arquivos com exemplos da 'aula 19'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
