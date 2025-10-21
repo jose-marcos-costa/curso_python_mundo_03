@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio092-Cadastro_De_Trabalhador_Em_Python.py' da 'aula 19'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio093-Cadastro_De_Jogador_De_Futebol.py' da 'aula 19'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio093-Cadastro_De_Jogador_De_Futebol.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio093-Cadastro_De_Jogador_De_Futebol.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio094-Unindo_Dicionarios_E_Listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio094-Unindo_Dicionarios_E_Listas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,7 @@
     "Python.desafio091-Jogo_De_Dados_Em_Python.executor": "Run",
     "Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor": "Run",
     "Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor": "Run",
+    "Python.desafio094-Unindo_Dicionarios_E_Listas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -123,7 +124,7 @@
       <workItem from="1760780096123" duration="8548000" />
       <workItem from="1760813532019" duration="9712000" />
       <workItem from="1760866267088" duration="6438000" />
-      <workItem from="1761065549021" duration="10982000" />
+      <workItem from="1761065549021" duration="15596000" />
     </task>
     <task id="LOCAL-00001" summary="Criando a pasta 'exemplos' com exemplos dados durantes as aulas do 'Mundo 3'.&#10;Adicionando os arquivos 'aula16.py' e 'aula16a.py'.">
       <option name="closed" value="true" />
@@ -469,14 +470,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761075939518</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Adicionando a resolução ao arquivo 'desafio093-Cadastro_De_Jogador_De_Futebol.py' da 'aula 19'">
+      <option name="closed" value="true" />
+      <created>1761078193026</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1761078193026</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando os arquivos dos desafios  (080 a 115) om os nomes corretos, do curso de Python 3 - Mundo 3" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio081-Extraindo_Dados_De_Uma_Lista.py' da 'aula 17'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio082-Dividindo_Valores_Em_Varias_Listas.py' da 'aula 17'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio083-Validando_Expressoes_Matematicas.py' da 'aula 17'" />
@@ -501,7 +509,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio090-Dicionario_Em_Python.py' da 'aula 19'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio091-Jogo_De_Dados_Em_Python.py' da 'aula 19'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio092-Cadastro_De_Trabalhador_Em_Python.py' da 'aula 19'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio092-Cadastro_De_Trabalhador_Em_Python.py' da 'aula 19'" />
+    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio093-Cadastro_De_Jogador_De_Futebol.py' da 'aula 19'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio093-Cadastro_De_Jogador_De_Futebol.py' da 'aula 19'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -555,6 +564,7 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18a.coverage" NAME="aula18a Coverage Results" MODIFIED="1760786720213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio087_Mais_Sobre_Matriz_Em_Python.coverage" NAME="desafio087-Mais_Sobre_Matriz_Em_Python Coverage Results" MODIFIED="1760873350339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio086_Matriz_Em_Python.coverage" NAME="desafio086-Matriz_Em_Python Coverage Results" MODIFIED="1760873015450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio094_Unindo_Dicionarios_E_Listas.coverage" NAME="desafio094-Unindo_Dicionarios_E_Listas Coverage Results" MODIFIED="1761086789079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista.coverage" NAME="desafio078-Maior_e_Menor_na_Lista Coverage Results" MODIFIED="1760722517546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio077_Contando_Vogais_em_Tupla.coverage" NAME="desafio077-Contando_Vogais_em_Tupla Coverage Results" MODIFIED="1760684647670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17b.coverage" NAME="aula17b Coverage Results" MODIFIED="1760688030652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
