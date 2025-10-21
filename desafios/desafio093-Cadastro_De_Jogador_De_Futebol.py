@@ -1,1 +1,22 @@
-# O arquivo './desafios/desafio093-Cadastro_De_Jogador_De_Futebol.py' foi criado automaticamente
+dados = dict()
+gols = list()
+total_gols = 0
+dados['nome'] = str(input('Nome: ')).strip()
+num_partidas = int(input(f'Quantas partidas {"nome"} jogou? '))
+for i in range(0, num_partidas):
+    cada_partida = int(input(f'Quantos gols na partida {i}? '))
+    gols.append(cada_partida)
+    total_gols += cada_partida
+dados['gols'] = gols.copy()
+dados['total'] = total_gols
+print('-=' * 30)
+print(dados)
+print('-=' * 30)
+for k, v in dados.items():
+    print(f'O campo {k} tem o valor {v}.')
+print('-=' * 30)
+print(f'O jogador {dados['nome']} jogou {len(dados['gols'])} partidas.')
+for p, g in enumerate(gols):
+    print(f'\t=> Na partida {p}, fez {g} gols')
+print(f'Foi um total de {total_gols} gols.')
+print('-=' * 30)
