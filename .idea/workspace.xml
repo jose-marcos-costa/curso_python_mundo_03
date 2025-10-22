@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo a resolução do desafio 'desafio094-Unindo_Dicionarios_E_Listas.py' da 'aula 19'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo a resolução do desafio 'desafio095-Aprimorando_Os_Dicionarios.py' da 'aula 19'">
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exemplos/aula20e.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio095-Aprimorando_Os_Dicionarios.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio095-Aprimorando_Os_Dicionarios.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,63 +48,69 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.criador_de_arquivos_python_v2_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio072-Numero_por_Extenso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio073-Tuplas_com_Times_de_Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio076-Lista_de_Precos_com_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio077-Contando_Vogais_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio079-Valores_Unicos_em_uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio085-Listas_Com_Pares_E_Impares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio086-Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio088-Palpites_Para_A_Mega_Sena.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio089-Boletim_Com_Listas_Compostas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio090-Dicionario_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio091-Jogo_De_Dados_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio094-Unindo_Dicionarios_E_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio095-Aprimorando_Os_Dicionarios.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula16.executor": "Run",
+    "Python.aula16a.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula17a.executor": "Run",
+    "Python.aula17b.executor": "Run",
+    "Python.aula17c.executor": "Run",
+    "Python.aula18.executor": "Run",
+    "Python.aula18a.executor": "Run",
+    "Python.aula18b.executor": "Run",
+    "Python.aula19.executor": "Run",
+    "Python.aula19a.executor": "Run",
+    "Python.aula19b.executor": "Run",
+    "Python.aula20.executor": "Run",
+    "Python.aula20a.executor": "Run",
+    "Python.aula20b.executor": "Run",
+    "Python.aula20c.executor": "Run",
+    "Python.aula20d.executor": "Run",
+    "Python.aula20e.executor": "Run",
+    "Python.criador_de_arquivos_python_v2_0.executor": "Run",
+    "Python.desafio072-Numero_por_Extenso.executor": "Run",
+    "Python.desafio073-Tuplas_com_Times_de_Futebol.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla.executor": "Run",
+    "Python.desafio076-Lista_de_Precos_com_Tupla.executor": "Run",
+    "Python.desafio077-Contando_Vogais_em_Tupla.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista.executor": "Run",
+    "Python.desafio079-Valores_Unicos_em_uma_Lista.executor": "Run",
+    "Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor": "Run",
+    "Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor": "Run",
+    "Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas.executor": "Run",
+    "Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor": "Run",
+    "Python.desafio085-Listas_Com_Pares_E_Impares.executor": "Run",
+    "Python.desafio086-Matriz_Em_Python.executor": "Run",
+    "Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor": "Run",
+    "Python.desafio088-Palpites_Para_A_Mega_Sena.executor": "Run",
+    "Python.desafio089-Boletim_Com_Listas_Compostas.executor": "Run",
+    "Python.desafio090-Dicionario_Em_Python.executor": "Run",
+    "Python.desafio091-Jogo_De_Dados_Em_Python.executor": "Run",
+    "Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor": "Run",
+    "Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor": "Run",
+    "Python.desafio094-Unindo_Dicionarios_E_Listas.executor": "Run",
+    "Python.desafio095-Aprimorando_Os_Dicionarios.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zeze_\Dropbox\Zé\001 - Wyden - Ciência de Dados\Período 01\01 - Paradigmas de Linguagens de Programação e Python\Curso em Vídeo - Python Mundo 3\curso_em_video_python_mundo_03\desafios" />
@@ -126,15 +137,8 @@
       <workItem from="1760813532019" duration="9712000" />
       <workItem from="1760866267088" duration="6438000" />
       <workItem from="1761065549021" duration="24598000" />
-      <workItem from="1761131863626" duration="2956000" />
-    </task>
-    <task id="LOCAL-00003" summary="Atualizando a resolução do arquivo 'desafio072-Numero_por_Extenso.py' da 'aula 16'">
-      <option name="closed" value="true" />
-      <created>1760632150285</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1760632150285</updated>
+      <workItem from="1761131863626" duration="3326000" />
+      <workItem from="1761138554694" duration="2864000" />
     </task>
     <task id="LOCAL-00004" summary="Adicionando a resolução ao arquivo 'desafio073-Tuplas_com_Times_de_Futebol.py' da 'aula 16'">
       <option name="closed" value="true" />
@@ -520,14 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761133732244</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Corrigindo a resolução do desafio 'desafio095-Aprimorando_Os_Dicionarios.py' da 'aula 19'">
+      <option name="closed" value="true" />
+      <created>1761135277860</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1761135277860</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Corrigindo a resolução do 'desafio082-Dividindo_Valores_Em_Varias_Listas.py' da 'aula 17'" />
     <MESSAGE value="Adicioanndo a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'" />
     <MESSAGE value="Adicionando a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'" />
     <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 18'" />
@@ -552,7 +563,8 @@
     <MESSAGE value="Corrigindo a resolução do 'desafio091-Jogo_De_Dados_Em_Python.py' da 'aula 19'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio093-Cadastro_De_Jogador_De_Futebol.py' da 'aula 19'" />
     <MESSAGE value="Corrigindo a resolução do desafio 'desafio094-Unindo_Dicionarios_E_Listas.py' da 'aula 19'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo a resolução do desafio 'desafio094-Unindo_Dicionarios_E_Listas.py' da 'aula 19'" />
+    <MESSAGE value="Corrigindo a resolução do desafio 'desafio095-Aprimorando_Os_Dicionarios.py' da 'aula 19'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo a resolução do desafio 'desafio095-Aprimorando_Os_Dicionarios.py' da 'aula 19'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -571,47 +583,53 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio081_Extraindo_Dados_De_Uma_Lista.coverage" NAME="desafio081-Extraindo_Dados_De_Uma_Lista Coverage Results" MODIFIED="1760783221551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18.coverage" NAME="aula18 Coverage Results" MODIFIED="1760786404512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio075_Analise_de_dados_em_uma_Tupla_GUANABARA.coverage" NAME="desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA Coverage Results" MODIFIED="1760683781712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17c.coverage" NAME="aula17c Coverage Results" MODIFIED="1760688473398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio088_Palpites_Para_A_Mega_Sena.coverage" NAME="desafio088-Palpites_Para_A_Mega_Sena Coverage Results" MODIFIED="1760874131453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio092_Cadastro_De_Trabalhador_Em_Python.coverage" NAME="desafio092-Cadastro_De_Trabalhador_Em_Python Coverage Results" MODIFIED="1761095438609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16a.coverage" NAME="aula16a Coverage Results" MODIFIED="1760620544178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio082_Dividindo_Valores_Em_Varias_Listas.coverage" NAME="desafio082-Dividindo_Valores_Em_Varias_Listas Coverage Results" MODIFIED="1760783614058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio085_Listas_Com_Pares_E_Impares.coverage" NAME="desafio085-Listas_Com_Pares_E_Impares Coverage Results" MODIFIED="1760815840308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio093_Cadastro_De_Jogador_De_Futebol.coverage" NAME="desafio093-Cadastro_De_Jogador_De_Futebol Coverage Results" MODIFIED="1761132068795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio095_Aprimorando_Os_Dicionarios.coverage" NAME="desafio095-Aprimorando_Os_Dicionarios Coverage Results" MODIFIED="1761134850217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17a.coverage" NAME="aula17a Coverage Results" MODIFIED="1760687812216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas_GUANABARA.coverage" NAME="desafio083-Validando_Expressoes_Matematicas-GUANABARA Coverage Results" MODIFIED="1760784473820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas.coverage" NAME="desafio083-Validando_Expressoes_Matematicas Coverage Results" MODIFIED="1760734889763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18b.coverage" NAME="aula18b Coverage Results" MODIFIED="1760787394360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista_GUANABARA.coverage" NAME="desafio078-Maior_e_Menor_na_Lista-GUANABARA Coverage Results" MODIFIED="1760781135635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio073_Tuplas_com_Times_de_Futebol.coverage" NAME="desafio073-Tuplas_com_Times_de_Futebol Coverage Results" MODIFIED="1760681624687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio075_Analise_de_dados_em_uma_Tupla.coverage" NAME="desafio075-Analise_de_dados_em_uma_Tupla Coverage Results" MODIFIED="1760637100949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula19a.coverage" NAME="aula19a Coverage Results" MODIFIED="1761067532659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio079_Valores_Unicos_em_uma_Lista.coverage" NAME="desafio079-Valores_Unicos_em_uma_Lista Coverage Results" MODIFIED="1760781693232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio090_Dicionario_Em_Python.coverage" NAME="desafio090-Dicionario_Em_Python Coverage Results" MODIFIED="1761093508687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula19b.coverage" NAME="aula19b Coverage Results" MODIFIED="1761068680540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio074_Maior_e_Menor_em_Tupla.coverage" NAME="desafio074-Maior_e_Menor_em_Tupla Coverage Results" MODIFIED="1760634971069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio074_Maior_e_Menor_em_Tupla_GUANABARA.coverage" NAME="desafio074-Maior_e_Menor_em_Tupla-GUANABARA Coverage Results" MODIFIED="1760682774021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio080_Lista_Ordenada_Sem_Repeticoes.coverage" NAME="desafio080-Lista_Ordenada_Sem_Repeticoes Coverage Results" MODIFIED="1760782720216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16.coverage" NAME="aula16 Coverage Results" MODIFIED="1760619380217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista_VERSAO2.coverage" NAME="desafio078-Maior_e_Menor_na_Lista-VERSAO2 Coverage Results" MODIFIED="1760723088002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio076_Lista_de_Precos_com_Tupla.coverage" NAME="desafio076-Lista_de_Precos_com_Tupla Coverage Results" MODIFIED="1760638892851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula19.coverage" NAME="aula19 Coverage Results" MODIFIED="1761067191045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio089_Boletim_Com_Listas_Compostas.coverage" NAME="desafio089-Boletim_Com_Listas_Compostas Coverage Results" MODIFIED="1760874297753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20c.coverage" NAME="aula20c Coverage Results" MODIFIED="1761140641695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio072_Numero_por_Extenso.coverage" NAME="desafio072-Numero_por_Extenso Coverage Results" MODIFIED="1760642057954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio087_Mais_Sobre_Matriz_Em_Python.coverage" NAME="desafio087-Mais_Sobre_Matriz_Em_Python Coverage Results" MODIFIED="1760873350339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio094_Unindo_Dicionarios_E_Listas.coverage" NAME="desafio094-Unindo_Dicionarios_E_Listas Coverage Results" MODIFIED="1761133567018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20.coverage" NAME="aula20 Coverage Results" MODIFIED="1761138761328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista.coverage" NAME="desafio078-Maior_e_Menor_na_Lista Coverage Results" MODIFIED="1760722517546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20b.coverage" NAME="aula20b Coverage Results" MODIFIED="1761140034708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio077_Contando_Vogais_em_Tupla.coverage" NAME="desafio077-Contando_Vogais_em_Tupla Coverage Results" MODIFIED="1760684647670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17b.coverage" NAME="aula17b Coverage Results" MODIFIED="1760688030652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio091_Jogo_De_Dados_Em_Python.coverage" NAME="desafio091-Jogo_De_Dados_Em_Python Coverage Results" MODIFIED="1761094635457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio081_Extraindo_Dados_De_Uma_Lista.coverage" NAME="desafio081-Extraindo_Dados_De_Uma_Lista Coverage Results" MODIFIED="1760783221551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18.coverage" NAME="aula18 Coverage Results" MODIFIED="1760786404512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20d.coverage" NAME="aula20d Coverage Results" MODIFIED="1761141021924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio088_Palpites_Para_A_Mega_Sena.coverage" NAME="desafio088-Palpites_Para_A_Mega_Sena Coverage Results" MODIFIED="1760874131453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17c.coverage" NAME="aula17c Coverage Results" MODIFIED="1760688473398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16a.coverage" NAME="aula16a Coverage Results" MODIFIED="1760620544178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio082_Dividindo_Valores_Em_Varias_Listas.coverage" NAME="desafio082-Dividindo_Valores_Em_Varias_Listas Coverage Results" MODIFIED="1760783614058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio085_Listas_Com_Pares_E_Impares.coverage" NAME="desafio085-Listas_Com_Pares_E_Impares Coverage Results" MODIFIED="1760815840308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio095_Aprimorando_Os_Dicionarios.coverage" NAME="desafio095-Aprimorando_Os_Dicionarios Coverage Results" MODIFIED="1761135070309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas_GUANABARA.coverage" NAME="desafio083-Validando_Expressoes_Matematicas-GUANABARA Coverage Results" MODIFIED="1760784473820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio083_Validando_Expressoes_Matematicas.coverage" NAME="desafio083-Validando_Expressoes_Matematicas Coverage Results" MODIFIED="1760734889763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18b.coverage" NAME="aula18b Coverage Results" MODIFIED="1760787394360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio075_Analise_de_dados_em_uma_Tupla.coverage" NAME="desafio075-Analise_de_dados_em_uma_Tupla Coverage Results" MODIFIED="1760637100949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula19a.coverage" NAME="aula19a Coverage Results" MODIFIED="1761067532659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio079_Valores_Unicos_em_uma_Lista.coverage" NAME="desafio079-Valores_Unicos_em_uma_Lista Coverage Results" MODIFIED="1760781693232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20a.coverage" NAME="aula20a Coverage Results" MODIFIED="1761139255478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio090_Dicionario_Em_Python.coverage" NAME="desafio090-Dicionario_Em_Python Coverage Results" MODIFIED="1761093508687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula19b.coverage" NAME="aula19b Coverage Results" MODIFIED="1761068680540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio074_Maior_e_Menor_em_Tupla.coverage" NAME="desafio074-Maior_e_Menor_em_Tupla Coverage Results" MODIFIED="1760634971069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio080_Lista_Ordenada_Sem_Repeticoes.coverage" NAME="desafio080-Lista_Ordenada_Sem_Repeticoes Coverage Results" MODIFIED="1760782720216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula16.coverage" NAME="aula16 Coverage Results" MODIFIED="1760619380217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista_VERSAO2.coverage" NAME="desafio078-Maior_e_Menor_na_Lista-VERSAO2 Coverage Results" MODIFIED="1760723088002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17.coverage" NAME="aula17 Coverage Results" MODIFIED="1760687564104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio084_Lista_Composta_E_Analise_De_Dados.coverage" NAME="desafio084-Lista_Composta_E_Analise_De_Dados Coverage Results" MODIFIED="1760869776755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18a.coverage" NAME="aula18a Coverage Results" MODIFIED="1760786720213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio087_Mais_Sobre_Matriz_Em_Python.coverage" NAME="desafio087-Mais_Sobre_Matriz_Em_Python Coverage Results" MODIFIED="1760873350339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio086_Matriz_Em_Python.coverage" NAME="desafio086-Matriz_Em_Python Coverage Results" MODIFIED="1760873015450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio094_Unindo_Dicionarios_E_Listas.coverage" NAME="desafio094-Unindo_Dicionarios_E_Listas Coverage Results" MODIFIED="1761133567018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista.coverage" NAME="desafio078-Maior_e_Menor_na_Lista Coverage Results" MODIFIED="1760722517546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio077_Contando_Vogais_em_Tupla.coverage" NAME="desafio077-Contando_Vogais_em_Tupla Coverage Results" MODIFIED="1760684647670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17b.coverage" NAME="aula17b Coverage Results" MODIFIED="1760688030652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20e.coverage" NAME="aula20e Coverage Results" MODIFIED="1761141248537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$criador_de_arquivos_python_v2_0.coverage" NAME="criador_de_arquivos_python_v2_0 Coverage Results" MODIFIED="1760726855858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../criando_nomes_para_arquivos_automaticamente" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio091_Jogo_De_Dados_Em_Python.coverage" NAME="desafio091-Jogo_De_Dados_Em_Python Coverage Results" MODIFIED="1761094635457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
   </component>
 </project>
