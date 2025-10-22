@@ -1,5 +1,5 @@
 from random import randint
-numeros = list()
+from time import sleep
 
 
 def sorteia(lista):
@@ -7,6 +7,7 @@ def sorteia(lista):
     for i in range(0, 5):
         lista.append(randint(1, 10))
         print(f'{lista[i]} ', end= '')
+        sleep(0.5)
     print('PRONTO!')
 
 
@@ -19,6 +20,7 @@ def somaPar(lst):
 
 
 # Programa Principal
+numeros = list()
 sorteia(numeros)
 # print(numeros)
 somaPar(numeros)
