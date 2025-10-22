@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio098-Funcao_De_Contador.py' da 'aula 20'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução ao arquivo 'desafio099-Funcao_Que_Descobre_O_Maior.py' da 'aula 20'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio099-Funcao_Que_Descobre_O_Maior.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio099-Funcao_Que_Descobre_O_Maior.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio100-Funcoes_Para_Sortear_E_Somar.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio100-Funcoes_Para_Sortear_E_Somar.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +98,7 @@
     "Python.desafio097-Um_Print_Especial.executor": "Run",
     "Python.desafio098-Funcao_De_Contador.executor": "Run",
     "Python.desafio099-Funcao_Que_Descobre_O_Maior.executor": "Run",
+    "Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -137,15 +138,7 @@
       <workItem from="1760866267088" duration="6438000" />
       <workItem from="1761065549021" duration="24598000" />
       <workItem from="1761131863626" duration="3326000" />
-      <workItem from="1761138554694" duration="7020000" />
-    </task>
-    <task id="LOCAL-00008" summary="Adicionando a resolução ao arquivo 'desafio076-Lista_de_Precos_com_Tupla.py' da 'aula 16'">
-      <option name="closed" value="true" />
-      <created>1760638943049</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1760638943049</updated>
+      <workItem from="1761138554694" duration="8116000" />
     </task>
     <task id="LOCAL-00009" summary="Corrigindo a resolução do 'desafio072-Numero_por_Extenso' da 'aula 16'">
       <option name="closed" value="true" />
@@ -531,14 +524,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761151725168</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Adicionando a resolução ao arquivo 'desafio099-Funcao_Que_Descobre_O_Maior.py' da 'aula 20'">
+      <option name="closed" value="true" />
+      <created>1761152865558</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1761152865558</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando a resoluçãpo ao arquivo 'desafio085-Listas_Com_Pares_E_Impares.py' da 'aula 18'" />
     <MESSAGE value="Adicionando a resoluçãpo ao arquivo 'desafio086-Matriz_Em_Python.py' da 'aula 18'" />
     <MESSAGE value="Adicionando a resoluçãpo ao arquivo 'desafio087-Mais_Sobre_Matriz_Em_Python.py' da 'aula 18'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio087-Mais_Sobre_Matriz_Em_Python.py' da 'aula 18'" />
@@ -563,7 +563,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio096-Funcao_Que_Calcula_Area.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio097-Um_Print_Especial.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
+    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio099-Funcao_Que_Descobre_O_Maior.py' da 'aula 20'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio099-Funcao_Que_Descobre_O_Maior.py' da 'aula 20'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -586,7 +587,8 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio092_Cadastro_De_Trabalhador_Em_Python.coverage" NAME="desafio092-Cadastro_De_Trabalhador_Em_Python Coverage Results" MODIFIED="1761095438609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio093_Cadastro_De_Jogador_De_Futebol.coverage" NAME="desafio093-Cadastro_De_Jogador_De_Futebol Coverage Results" MODIFIED="1761132068795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17a.coverage" NAME="aula17a Coverage Results" MODIFIED="1760687812216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio099_Funcao_Que_Descobre_O_Maior.coverage" NAME="desafio099-Funcao_Que_Descobre_O_Maior Coverage Results" MODIFIED="1761152550262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio099_Funcao_Que_Descobre_O_Maior.coverage" NAME="desafio099-Funcao_Que_Descobre_O_Maior Coverage Results" MODIFIED="1761152727622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio100_Funcoes_Para_Sortear_E_Somar.coverage" NAME="desafio100-Funcoes_Para_Sortear_E_Somar Coverage Results" MODIFIED="1761153684511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio078_Maior_e_Menor_na_Lista_GUANABARA.coverage" NAME="desafio078-Maior_e_Menor_na_Lista-GUANABARA Coverage Results" MODIFIED="1760781135635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio073_Tuplas_com_Times_de_Futebol.coverage" NAME="desafio073-Tuplas_com_Times_de_Futebol Coverage Results" MODIFIED="1760681624687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio074_Maior_e_Menor_em_Tupla_GUANABARA.coverage" NAME="desafio074-Maior_e_Menor_em_Tupla-GUANABARA Coverage Results" MODIFIED="1760682774021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
