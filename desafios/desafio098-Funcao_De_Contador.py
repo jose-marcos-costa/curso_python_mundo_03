@@ -1,23 +1,23 @@
 from time import sleep
-def contador(inicio, fim, passo):
+def contador(i, f, p):
     print('-=' * 30)
-    print(f'Contagem de {inicio} até {fim} de {passo} em {passo}')
-    if inicio > fim and passo != 0 :
-        for cont in range(inicio, (fim - passo), -passo):
+    print(f'Contagem de {i} até {f} de {p} em {p}')
+    if i > f and p != 0 :
+        for cont in range(i, (f - p), -p):
             print(f'{cont}', end=' -> ')
             sleep(0.5)
         print('FIM!')
-    if (fim > inicio and passo != 0) or passo < 0:
-        for cont in range(inicio, (fim + passo), passo):
+    if (f > i and p != 0) or p < 0:
+        for cont in range(i, (f + p), p):
             print(f'{cont}', end=' -> ')
             sleep(0.5)
         print('FIM!')
-    if passo == 0:
-        if inicio > fim:
-            passo = -1
-        elif fim > inicio:
-            passo = 1
-        for cont in range(inicio, (fim + passo), passo):
+    if p == 0:
+        if i > f:
+            p = -1
+        elif f > i:
+            p = 1
+        for cont in range(i, (f + p), p):
             print(f'{cont}', end=' -> ')
             sleep(0.5)
         print('FIM!')
