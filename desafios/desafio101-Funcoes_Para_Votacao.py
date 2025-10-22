@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio101-Funcoes_Para_Votacao.py' foi criado automaticamente
