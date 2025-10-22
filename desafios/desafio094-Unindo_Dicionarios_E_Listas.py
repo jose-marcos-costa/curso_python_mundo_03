@@ -7,6 +7,7 @@ while True:
     pessoa['nome'] = str(input('Nome: ')).strip()
     pessoa['sexo'] = str(input('Sexo: [M/F] ')).strip().upper()[0]
     pessoa['idade'] = int(input('Idade: '))
+    soma_idade += pessoa['idade']
     grupo.append(pessoa.copy())
     pessoa.clear()
     while True:
@@ -16,15 +17,14 @@ while True:
     if opcao == 'N':
         break
 print('-=' * 30)
-print(f'- O grupo tem {len(grupo)}.')
-print(f'- As mulheres cadastradas foram: ', end='')
-for i, p in enumerate(grupo):
-    soma_idade += grupo[i]['idade']
-    if grupo[i]['sexo'] == 'F':
-        print(grupo[i]['nome'],end=' ')
-print()
+print(f'- O grupo tem {len(grupo)} pessoas cadastradas.')
 media_idade = soma_idade / len(grupo)
-print(f'- A média de idade é {media_idade}')
+print(f'- A média de idade é {media_idade:.2f} anos.')
+print(f'- As mulheres cadastradas foram: ', end='')
+for p in grupo:
+    if p['sexo'] == 'F':
+        print(p['nome'],end=' ')
+print()
 print(f'- Lista de pessoas que estão acima da média:')
 for p in grupo:
     print()
