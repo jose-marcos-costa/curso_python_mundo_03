@@ -23,19 +23,15 @@ while True:
         break
     print('-' * 30)
 print('-=' * 30)
-print(f'{"cod":^5} {"nome":^8} {"gols":^20} {"total":^5}')
+print(f'{"cod":^5} {"nome":<6} {"gols":^18} {"total":<5}')
 for i, jog in enumerate(completo):
-    print(f'{i:^5}', end='')
-    for k, v in jog.items():
-        if k == 'nome':
-            print(f'{v:<16}', end='')
-        elif k == 'gols':
-            print(f'{v}', end='')
-        elif k == 'total':
-            print(f'{v:^5}', end='')
+    print(f'{i:>4} ', end='')
+    for d in jog.values():
+       print(f'{str(d):<15}', end='')
     print()
+print('--' * 30)
 while True:
-    opcao = int(input('Mostrar dados de qual jogador? '))
+    opcao = int(input('Mostrar dados de qual jogador (999 para parar)? '))
     if opcao == 999:
         print('Finalizando...')
         break
@@ -47,4 +43,5 @@ while True:
     print(f'-- LEVANTAMENTO DO JOGADOR {completo[opcao]["nome"]} --')
     for i, g in enumerate(completo[opcao]['gols']):
         print(f'No jogo {i} fez {g} gols.')
-
+    print('-' * 30)
+print(' <<< VOLTE SEMPRE! >>> ')
