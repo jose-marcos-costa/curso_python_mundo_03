@@ -1,1 +1,11 @@
-# O arquivo './desafios/desafio097-Um_Print_Especial.py' foi criado automaticamente
+def escreva(txt):
+    tam = len(txt) + 4
+    print('~' * (tam))
+    print(f'{txt:^{tam}}')
+    print('~' * (tam))
+
+
+# Programa Principal
+escreva('Gustavo Guanabara')
+escreva('Curso de Python no YouTube')
+escreva('CeV')
