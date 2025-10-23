@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo a resolução do 'desafio100-Funcoes_Para_Sortear_E_Somar.py' da 'aula 20'">
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21c.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21d.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exemplos/aula21f.py" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Atualiao a resolução ao arquivo 'desafio101-Funcoes_Para_Votacao.py' da 'aula 21'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio101-Funcoes_Para_Votacao.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio101-Funcoes_Para_Votacao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +106,7 @@
     "Python.desafio098-Funcao_De_Contador.executor": "Run",
     "Python.desafio099-Funcao_Que_Descobre_O_Maior.executor": "Run",
     "Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor": "Run",
+    "Python.desafio101-Funcoes_Para_Votacao.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -151,23 +146,7 @@
       <workItem from="1760866267088" duration="6438000" />
       <workItem from="1761065549021" duration="24598000" />
       <workItem from="1761131863626" duration="3326000" />
-      <workItem from="1761138554694" duration="15601000" />
-    </task>
-    <task id="LOCAL-00013" summary="Corrigindo a resolução do 'desafio077-Contando_Vogais_em_Tupla.py' da 'aula 16'">
-      <option name="closed" value="true" />
-      <created>1760684805620</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1760684805620</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Adicioando os arquivos com exemplos da 'aula 17'">
-      <option name="closed" value="true" />
-      <created>1760721300551</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1760721300551</updated>
+      <workItem from="1761138554694" duration="18670000" />
     </task>
     <task id="LOCAL-00015" summary="Adicionando os arquivos com exemplos da 'aula 17'">
       <option name="closed" value="true" />
@@ -545,15 +524,29 @@
       <option name="project" value="LOCAL" />
       <updated>1761157857838</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Adicionando os arquivos com exemplos da 'aula 21'">
+      <option name="closed" value="true" />
+      <created>1761162675245</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1761162675245</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Adicionando a resolução ao arquivo 'desafio101-Funcoes_Para_Votacao.py' da 'aula 21'">
+      <option name="closed" value="true" />
+      <created>1761162857168</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1761162857168</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio089-Boletim_Com_Listas_Compostas.py' da 'aula 18'" />
-    <MESSAGE value="Corrigindo a resolução do 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio086-Matriz_Em_Python.py' da 'aula 18'" />
     <MESSAGE value="Adicionando as arquivos com exemplos da 'aula 19'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio090-Dicionario_Em_Python.py' da 'aula 19'" />
@@ -577,7 +570,9 @@
     <MESSAGE value="Corrigindo a resolução do 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
     <MESSAGE value="Atualizando a correção do 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio100-Funcoes_Para_Sortear_E_Somar.py' da 'aula 20'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo a resolução do 'desafio100-Funcoes_Para_Sortear_E_Somar.py' da 'aula 20'" />
+    <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 21'" />
+    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio101-Funcoes_Para_Votacao.py' da 'aula 21'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução ao arquivo 'desafio101-Funcoes_Para_Votacao.py' da 'aula 21'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -655,6 +650,7 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio086_Matriz_Em_Python.coverage" NAME="desafio086-Matriz_Em_Python Coverage Results" MODIFIED="1760873015450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula21a.coverage" NAME="aula21a Coverage Results" MODIFIED="1761159195351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula20e.coverage" NAME="aula20e Coverage Results" MODIFIED="1761141248537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio101_Funcoes_Para_Votacao.coverage" NAME="desafio101-Funcoes_Para_Votacao Coverage Results" MODIFIED="1761163812363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$criador_de_arquivos_python_v2_0.coverage" NAME="criador_de_arquivos_python_v2_0 Coverage Results" MODIFIED="1760726855858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../criando_nomes_para_arquivos_automaticamente" />
   </component>
 </project>
