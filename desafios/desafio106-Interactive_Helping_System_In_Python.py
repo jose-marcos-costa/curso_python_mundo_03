@@ -1,3 +1,9 @@
+cores = { 'amarelo_back': '\033[30;43m',
+          'limpa': '\033[m',
+          'azul_back': '\033[30;44m',
+          'vermelho_back': '\033[30;41m',
+          }
+
 def pyHelp():
     while True:
         imprimeColorido('SISTEMA DE AJUDA PyHELP', cores['amarelo_back'])
@@ -18,9 +24,4 @@ def imprimeColorido(f, cor):
 
 
 # Programa Principal
-cores = { 'amarelo_back': '\33[30;43m',
-          'limpa': '\33[m',
-          'azul_back': '\33[30;44m',
-          'vermelho_back': '\33[30;41m',
-          }
 pyHelp()
