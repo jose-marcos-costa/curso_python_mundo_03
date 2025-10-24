@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Forçando o 4º 'push' dos arquivos com os exemplos da 'aula 22'" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Forçando o 4º 'push' dos arquivos com os exemplos da 'aula 22'">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/moeda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/programa_principal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exemplos/aula22" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -114,6 +119,7 @@
     "Python.desafio105-Analisando_E_Gerando_Dicionarios.executor": "Run",
     "Python.desafio106-Interactive_Helping_System_In_Python.executor": "Run",
     "Python.numeros.executor": "Run",
+    "Python.programa_principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -162,6 +168,7 @@
       <workItem from="1761332504443" duration="76000" />
       <workItem from="1761332646647" duration="46000" />
       <workItem from="1761332736886" duration="1975000" />
+      <workItem from="1761335137974" duration="849000" />
     </task>
     <task id="LOCAL-00031" summary="Adicionando a resoluçãpo ao arquivo 'desafio084-Lista_Composta_E_Analise_De_Dados.py' da 'aula 18'">
       <option name="closed" value="true" />
