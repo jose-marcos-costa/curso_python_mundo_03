@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando os arquivos com a resolução do 'desafio107-Exercitando_Modulos_Em_Python' ao diretório de mesmo nome (aula 22)">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Atualizando o arquivo 'moeda.py' do 'desafio107-Exercitando_Modulos_Em_Python' (aula 22)">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107/desafio108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio107/moeda.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/moeda.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/moeda.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio107-Exercitando_Modulos_Em_Python/programa_principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio107/teste.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,15 +170,7 @@
       <workItem from="1761332504443" duration="76000" />
       <workItem from="1761332646647" duration="46000" />
       <workItem from="1761332736886" duration="1975000" />
-      <workItem from="1761335137974" duration="1731000" />
-    </task>
-    <task id="LOCAL-00032" summary="Adicionando a resoluçãpo ao arquivo 'desafio085-Listas_Com_Pares_E_Impares.py' da 'aula 18'">
-      <option name="closed" value="true" />
-      <created>1760815907745</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1760815907745</updated>
+      <workItem from="1761335137974" duration="3561000" />
     </task>
     <task id="LOCAL-00033" summary="Adicionando a resoluçãpo ao arquivo 'desafio086-Matriz_Em_Python.py' da 'aula 18'">
       <option name="closed" value="true" />
@@ -560,7 +556,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761336279811</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Atualizando o arquivo 'moeda.py' do 'desafio107-Exercitando_Modulos_Em_Python' (aula 22)">
+      <option name="closed" value="true" />
+      <created>1761336995721</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1761336995721</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +582,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando a resolução ao arquivo 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio099-Funcao_Que_Descobre_O_Maior.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio100-Funcoes_Para_Sortear_E_Somar.py' da 'aula 20'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
@@ -603,7 +606,8 @@
     <MESSAGE value="Forçando o 2º 'push' dos arquivos com os exemplos da 'aula 22'" />
     <MESSAGE value="Forçando o 4º 'push' dos arquivos com os exemplos da 'aula 22'" />
     <MESSAGE value="Adicionando os arquivos com a resolução do 'desafio107-Exercitando_Modulos_Em_Python' ao diretório de mesmo nome (aula 22)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando os arquivos com a resolução do 'desafio107-Exercitando_Modulos_Em_Python' ao diretório de mesmo nome (aula 22)" />
+    <MESSAGE value="Atualizando o arquivo 'moeda.py' do 'desafio107-Exercitando_Modulos_Em_Python' (aula 22)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando o arquivo 'moeda.py' do 'desafio107-Exercitando_Modulos_Em_Python' (aula 22)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
