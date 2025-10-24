@@ -1,6 +1,3 @@
-from datetime import date
-
-
 def voto(ano):
     """
     -> Função imprime a disponibilidade do
@@ -11,17 +8,17 @@ def voto(ano):
                 'OBRIGATÓRIO'   ->
     Função criada por José Marcos Costa
     """
+    from datetime import date
     idade = date.today().year - ano
     if idade < 16:
-        situacao = 'NÃO VOTA'
+        return f'Com {idade} anos: NÃO VOTA'
     elif (16 <= idade < 18) or idade > 70:
-        situacao = 'VOTO OPCIONAL'
+        return f'Com {idade} anos: VOTO OPCIONAL'
     else:
-        situacao = 'VOTO OBRIGATóRIO'
-    print(f'Com {idade} anos: {situacao}.')
+        return f'Com {idade} anos: VOTO OBRIGATóRIO'
 
 
 # Programa Principal
 print('-' * 30)
 ano_nascimento = int(input('Em que ano você nasceu? '))
-voto(ano_nascimento)
+print(voto(ano_nascimento))
