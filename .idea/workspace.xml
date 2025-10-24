@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Forçando o 'push' dos arquivos com os exemplos da 'aula 22'" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Forçando o 2º 'push' dos arquivos com os exemplos da 'aula 22'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -161,15 +161,7 @@
       <workItem from="1761332287468" duration="155000" />
       <workItem from="1761332504443" duration="76000" />
       <workItem from="1761332646647" duration="46000" />
-      <workItem from="1761332736886" duration="1436000" />
-    </task>
-    <task id="LOCAL-00029" summary="Adicionando a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'">
-      <option name="closed" value="true" />
-      <created>1760784679836</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1760784679836</updated>
+      <workItem from="1761332736886" duration="1743000" />
     </task>
     <task id="LOCAL-00030" summary="Adicionando os arquivos com exemplos da 'aula 18'">
       <option name="closed" value="true" />
@@ -555,14 +547,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761333639312</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Forçando o 2º 'push' dos arquivos com os exemplos da 'aula 22'">
+      <option name="closed" value="true" />
+      <created>1761334262222</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1761334262222</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio096-Funcao_Que_Calcula_Area.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio097-Um_Print_Especial.py' da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
@@ -587,7 +586,8 @@
     <MESSAGE value="Corrigindo o 'desafio106-Interactive_Helping_System_In_Python.py' da 'aula 21'" />
     <MESSAGE value="Adicionando os arquivos com os exemplos da 'aula 22'" />
     <MESSAGE value="Forçando o 'push' dos arquivos com os exemplos da 'aula 22'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Forçando o 'push' dos arquivos com os exemplos da 'aula 22'" />
+    <MESSAGE value="Forçando o 2º 'push' dos arquivos com os exemplos da 'aula 22'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forçando o 2º 'push' dos arquivos com os exemplos da 'aula 22'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
