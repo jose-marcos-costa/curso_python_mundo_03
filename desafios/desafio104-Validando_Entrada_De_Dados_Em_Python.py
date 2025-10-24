@@ -1,7 +1,7 @@
 def leiaInt(frase):
     resp = input(f'{frase}')
     while not resp.isnumeric():
-        print('{}ERRO! Digite um número inteiro válido.{}'.format('\33[31m', '\33[m'))
+        print('{}ERRO! Digite um número inteiro válido.{}'.format('\033[31m', '\033[m'))
         resp = input(f'{frase}')
     return resp
 
