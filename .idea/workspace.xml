@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Corrigindo o 'desafio106-Interactive_Helping_System_In_Python.py' da 'aula 21'">
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando os arquivos com os exemplos da 'aula 22'">
       <change afterPath="$PROJECT_DIR$/exemplos/aula22.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -21,7 +21,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/exemplos/aula22" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -43,90 +44,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula16a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula17c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula18b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula19b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula20e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21b.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21c.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21d.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula21f.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula22.executor&quot;: &quot;Run&quot;,
-    &quot;Python.criador_de_arquivos_python_v2_0.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio072-Numero_por_Extenso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio073-Tuplas_com_Times_de_Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio074-Maior_e_Menor_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio076-Lista_de_Precos_com_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio077-Contando_Vogais_em_Tupla.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio078-Maior_e_Menor_na_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio079-Valores_Unicos_em_uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio083-Validando_Expressoes_Matematicas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio085-Listas_Com_Pares_E_Impares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio086-Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio088-Palpites_Para_A_Mega_Sena.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio089-Boletim_Com_Listas_Compostas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio090-Dicionario_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio091-Jogo_De_Dados_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio094-Unindo_Dicionarios_E_Listas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio095-Aprimorando_Os_Dicionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio096-Funcao_Que_Calcula_Area.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio097-Um_Print_Especial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio098-Funcao_De_Contador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio099-Funcao_Que_Descobre_O_Maior.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio101-Funcoes_Para_Votacao.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio102-Funcao_Para_Fatorial.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio103-Ficha_Do_Jogador-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio103-Ficha_Do_Jogador.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio104-Validando_Entrada_De_Dados_Em_Python.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio105-Analisando_E_Gerando_Dicionarios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio106-Interactive_Helping_System_In_Python.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.aula16.executor": "Run",
+    "Python.aula16a.executor": "Run",
+    "Python.aula17.executor": "Run",
+    "Python.aula17a.executor": "Run",
+    "Python.aula17b.executor": "Run",
+    "Python.aula17c.executor": "Run",
+    "Python.aula18.executor": "Run",
+    "Python.aula18a.executor": "Run",
+    "Python.aula18b.executor": "Run",
+    "Python.aula19.executor": "Run",
+    "Python.aula19a.executor": "Run",
+    "Python.aula19b.executor": "Run",
+    "Python.aula20.executor": "Run",
+    "Python.aula20a.executor": "Run",
+    "Python.aula20b.executor": "Run",
+    "Python.aula20c.executor": "Run",
+    "Python.aula20d.executor": "Run",
+    "Python.aula20e.executor": "Run",
+    "Python.aula21.executor": "Run",
+    "Python.aula21a.executor": "Run",
+    "Python.aula21b.executor": "Run",
+    "Python.aula21c.executor": "Run",
+    "Python.aula21d.executor": "Run",
+    "Python.aula21e.executor": "Run",
+    "Python.aula21f.executor": "Run",
+    "Python.aula22.executor": "Run",
+    "Python.criador_de_arquivos_python_v2_0.executor": "Run",
+    "Python.desafio072-Numero_por_Extenso.executor": "Run",
+    "Python.desafio073-Tuplas_com_Times_de_Futebol.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio074-Maior_e_Menor_em_Tupla.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor": "Run",
+    "Python.desafio075-Analise_de_dados_em_uma_Tupla.executor": "Run",
+    "Python.desafio076-Lista_de_Precos_com_Tupla.executor": "Run",
+    "Python.desafio077-Contando_Vogais_em_Tupla.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor": "Run",
+    "Python.desafio078-Maior_e_Menor_na_Lista.executor": "Run",
+    "Python.desafio079-Valores_Unicos_em_uma_Lista.executor": "Run",
+    "Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor": "Run",
+    "Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor": "Run",
+    "Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor": "Run",
+    "Python.desafio083-Validando_Expressoes_Matematicas.executor": "Run",
+    "Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor": "Run",
+    "Python.desafio085-Listas_Com_Pares_E_Impares.executor": "Run",
+    "Python.desafio086-Matriz_Em_Python.executor": "Run",
+    "Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor": "Run",
+    "Python.desafio088-Palpites_Para_A_Mega_Sena.executor": "Run",
+    "Python.desafio089-Boletim_Com_Listas_Compostas.executor": "Run",
+    "Python.desafio090-Dicionario_Em_Python.executor": "Run",
+    "Python.desafio091-Jogo_De_Dados_Em_Python.executor": "Run",
+    "Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor": "Run",
+    "Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor": "Run",
+    "Python.desafio094-Unindo_Dicionarios_E_Listas.executor": "Run",
+    "Python.desafio095-Aprimorando_Os_Dicionarios.executor": "Run",
+    "Python.desafio096-Funcao_Que_Calcula_Area.executor": "Run",
+    "Python.desafio097-Um_Print_Especial.executor": "Run",
+    "Python.desafio098-Funcao_De_Contador.executor": "Run",
+    "Python.desafio099-Funcao_Que_Descobre_O_Maior.executor": "Run",
+    "Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor": "Run",
+    "Python.desafio101-Funcoes_Para_Votacao.executor": "Run",
+    "Python.desafio102-Funcao_Para_Fatorial.executor": "Run",
+    "Python.desafio103-Ficha_Do_Jogador-GUANABARA.executor": "Run",
+    "Python.desafio103-Ficha_Do_Jogador.executor": "Run",
+    "Python.desafio104-Validando_Entrada_De_Dados_Em_Python.executor": "Run",
+    "Python.desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.executor": "Run",
+    "Python.desafio105-Analisando_E_Gerando_Dicionarios.executor": "Run",
+    "Python.desafio106-Interactive_Helping_System_In_Python.executor": "Run",
+    "Python.numeros.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zeze_\Dropbox\Zé\001 - Wyden - Ciência de Dados\Período 01\01 - Paradigmas de Linguagens de Programação e Python\Curso em Vídeo - Python Mundo 3\curso_em_video_python_mundo_03\desafios" />
@@ -162,14 +164,7 @@
       <workItem from="1761332287468" duration="155000" />
       <workItem from="1761332504443" duration="76000" />
       <workItem from="1761332646647" duration="46000" />
-    </task>
-    <task id="LOCAL-00027" summary="Corrigindo a resolução do 'desafio082-Dividindo_Valores_Em_Varias_Listas.py' da 'aula 17'">
-      <option name="closed" value="true" />
-      <created>1760783820013</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1760783820013</updated>
+      <workItem from="1761332736886" duration="819000" />
     </task>
     <task id="LOCAL-00028" summary="Adicioanndo a versão do Guanabara do 'desafio083-Validando_Expressoes_Matematicas-GUANABARA.py' da 'aula 17'">
       <option name="closed" value="true" />
@@ -555,14 +550,21 @@
       <option name="project" value="LOCAL" />
       <updated>1761325805864</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Adicionando os arquivos com os exemplos da 'aula 22'">
+      <option name="closed" value="true" />
+      <created>1761332937369</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1761332937369</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Corrigindo a resolução do desafio 'desafio094-Unindo_Dicionarios_E_Listas.py' da 'aula 19'" />
     <MESSAGE value="Corrigindo a resolução do desafio 'desafio095-Aprimorando_Os_Dicionarios.py' da 'aula 19'" />
     <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 20'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio096-Funcao_Que_Calcula_Area.py' da 'aula 20'" />
@@ -587,7 +589,8 @@
     <MESSAGE value="Corrigindo o 'desafio104-Validando_Entrada_De_Dados_Em_Python.py' da 'aula 21'" />
     <MESSAGE value="Adicionando a versão do Guanabara do 'desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.py' da 'aula 21'" />
     <MESSAGE value="Corrigindo o 'desafio106-Interactive_Helping_System_In_Python.py' da 'aula 21'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo o 'desafio106-Interactive_Helping_System_In_Python.py' da 'aula 21'" />
+    <MESSAGE value="Adicionando os arquivos com os exemplos da 'aula 22'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando os arquivos com os exemplos da 'aula 22'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
