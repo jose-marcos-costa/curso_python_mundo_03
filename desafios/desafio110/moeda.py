@@ -22,7 +22,7 @@ def moeda(preco = 0, moeda = 'R$'):
     return f'{moeda}{preco:>8.2f}'.replace('.',',')
 
 
-def resumo(preco = 0, taxa_aum = 0, taxa_red = 0):
+def resumo(preco = 0, taxa_aum = 10, taxa_red = 5):
     print('~' * 30)
     print(f'{"RESUMO DE VALOR":^30}')
     print('~' * 30)
