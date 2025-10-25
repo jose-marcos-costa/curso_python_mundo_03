@@ -1,1 +1,0 @@
-# O arquivo './desafios/teste.py' foi criado automaticamente

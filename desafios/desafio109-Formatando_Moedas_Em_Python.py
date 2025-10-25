@@ -1,1 +1,0 @@
-# O arquivo './desafios/desafio109-Formatando_Moedas_Em_Python.py' foi criado automaticamente
