@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução e corrigindo o 'desafio109-Formatando_Moedas_Em_Python' (aula 22)">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio110/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/desafio110/teste.py" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a resolução do 'desafio110-Reduzindo_Ainda_Mais_Seu_Programa' (aula 22)">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadesCeV/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadesCeV/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/desafio111/utilidadesCeV/moeda/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -169,15 +171,8 @@
       <workItem from="1761332504443" duration="76000" />
       <workItem from="1761332646647" duration="46000" />
       <workItem from="1761332736886" duration="1975000" />
-      <workItem from="1761335137974" duration="7462000" />
-    </task>
-    <task id="LOCAL-00036" summary="Adicionando a resolução ao arquivo 'desafio088-Palpites_Para_A_Mega_Sena.py' da 'aula 18'">
-      <option name="closed" value="true" />
-      <created>1760829962585</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1760829962585</updated>
+      <workItem from="1761335137974" duration="7810000" />
+      <workItem from="1761382035318" duration="960000" />
     </task>
     <task id="LOCAL-00037" summary="Adicionando a resolução ao arquivo 'desafio089-Boletim_Com_Listas_Compostas.py' da 'aula 18'">
       <option name="closed" value="true" />
@@ -563,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761345322899</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Adicionando a resolução do 'desafio110-Reduzindo_Ainda_Mais_Seu_Programa' (aula 22)">
+      <option name="closed" value="true" />
+      <created>1761346909215</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1761346909215</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -581,7 +584,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Atualizando a correção do 'desafio098-Funcao_De_Contador.py' da 'aula 20'" />
     <MESSAGE value="Corrigindo a resolução do 'desafio100-Funcoes_Para_Sortear_E_Somar.py' da 'aula 20'" />
     <MESSAGE value="Adicionando os arquivos com exemplos da 'aula 21'" />
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio101-Funcoes_Para_Votacao.py' da 'aula 21'" />
@@ -606,7 +608,8 @@
     <MESSAGE value="Corrigindo o 'desafio107-Exercitando_Modulos_Em_Python' (aula 22)" />
     <MESSAGE value="Adicionando a resolução e corrigindo o 'desafio108-Formatando_Moedas_Em_Python' (aula 22)" />
     <MESSAGE value="Adicionando a resolução e corrigindo o 'desafio109-Formatando_Moedas_Em_Python' (aula 22)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução e corrigindo o 'desafio109-Formatando_Moedas_Em_Python' (aula 22)" />
+    <MESSAGE value="Adicionando a resolução do 'desafio110-Reduzindo_Ainda_Mais_Seu_Programa' (aula 22)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a resolução do 'desafio110-Reduzindo_Ainda_Mais_Seu_Programa' (aula 22)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
