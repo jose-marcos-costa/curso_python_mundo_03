@@ -1,5 +1,11 @@
 from desafios.desafio115G.lib.interface import *
+from desafios.desafio115G.lib.arquivo import *
 from time import sleep
+
+arq = 'cursoemvideo.txt'
+
+if not arquivoExiste(arq):
+    criarArquivo(arq)
 
 while True:
     resposta = menu(['Ver pessoas cadastradas', 'Cadastrar nova Pessoa', 'Sair do Sistema'])
@@ -13,5 +19,3 @@ while True:
     else:
         cabecalho('\033[31mERRRO! Digite um opção válida!\033[m')
     sleep(2)
-
-
