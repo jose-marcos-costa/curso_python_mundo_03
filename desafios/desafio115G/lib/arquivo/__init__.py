@@ -1,3 +1,5 @@
+from desafios.desafio115G.lib.interface import *
+
 def arquivoExiste(nome):
     try:
         a = open(nome, 'rt')
@@ -15,3 +17,13 @@ def criarArquivo(nome):
         print('Houve um erro na criação do arquivo!')
     else:
         print(f'Arquivo {nome} criado com sucesso!')
+
+
+def lerArquivo(nome):
+    try:
+        a = open(nome, 'rt')
+    except:
+        print('Erro ao ler o arquivo!')
+    else:
+        cabecalho('PESSOAS CADASTRADAS')
+        print(a.read())

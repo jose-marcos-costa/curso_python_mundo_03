@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a versão do Guanabara do 'desafio115a' da 'aula 23'">
-      <change afterPath="$PROJECT_DIR$/desafios/desafio115G/lib/arquivo/__init__.py" afterDir="false" />
+    <list default="true" id="5f50f4b4-f9c6-4304-8bce-50e59899170b" name="Changes" comment="Adicionando a versão do Guanabara do 'desafio115b' da 'aula 23'">
+      <change afterPath="$PROJECT_DIR$/desafios/desafio115G/cursoemvideo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/desafio115G/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio115G/lib/arquivo/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/desafios/desafio115G/sistema.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/desafio115G/sistema.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,104 +46,104 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.__init__.executor": "Run",
-    "Python.aula16.executor": "Run",
-    "Python.aula16a.executor": "Run",
-    "Python.aula17.executor": "Run",
-    "Python.aula17a.executor": "Run",
-    "Python.aula17b.executor": "Run",
-    "Python.aula17c.executor": "Run",
-    "Python.aula18.executor": "Run",
-    "Python.aula18a.executor": "Run",
-    "Python.aula18b.executor": "Run",
-    "Python.aula19.executor": "Run",
-    "Python.aula19a.executor": "Run",
-    "Python.aula19b.executor": "Run",
-    "Python.aula20.executor": "Run",
-    "Python.aula20a.executor": "Run",
-    "Python.aula20b.executor": "Run",
-    "Python.aula20c.executor": "Run",
-    "Python.aula20d.executor": "Run",
-    "Python.aula20e.executor": "Run",
-    "Python.aula21.executor": "Run",
-    "Python.aula21a.executor": "Run",
-    "Python.aula21b.executor": "Run",
-    "Python.aula21c.executor": "Run",
-    "Python.aula21d.executor": "Run",
-    "Python.aula21e.executor": "Run",
-    "Python.aula21f.executor": "Run",
-    "Python.aula22.executor": "Run",
-    "Python.aula23.executor": "Run",
-    "Python.cadastrar.executor": "Run",
-    "Python.criador_de_arquivos_python_v2_0.executor": "Run",
-    "Python.desafio072-Numero_por_Extenso.executor": "Run",
-    "Python.desafio073-Tuplas_com_Times_de_Futebol.executor": "Run",
-    "Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor": "Run",
-    "Python.desafio074-Maior_e_Menor_em_Tupla.executor": "Run",
-    "Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor": "Run",
-    "Python.desafio075-Analise_de_dados_em_uma_Tupla.executor": "Run",
-    "Python.desafio076-Lista_de_Precos_com_Tupla.executor": "Run",
-    "Python.desafio077-Contando_Vogais_em_Tupla.executor": "Run",
-    "Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor": "Run",
-    "Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor": "Run",
-    "Python.desafio078-Maior_e_Menor_na_Lista.executor": "Run",
-    "Python.desafio079-Valores_Unicos_em_uma_Lista.executor": "Run",
-    "Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor": "Run",
-    "Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor": "Run",
-    "Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor": "Run",
-    "Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor": "Run",
-    "Python.desafio083-Validando_Expressoes_Matematicas.executor": "Run",
-    "Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor": "Run",
-    "Python.desafio085-Listas_Com_Pares_E_Impares.executor": "Run",
-    "Python.desafio086-Matriz_Em_Python.executor": "Run",
-    "Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor": "Run",
-    "Python.desafio088-Palpites_Para_A_Mega_Sena.executor": "Run",
-    "Python.desafio089-Boletim_Com_Listas_Compostas.executor": "Run",
-    "Python.desafio090-Dicionario_Em_Python.executor": "Run",
-    "Python.desafio091-Jogo_De_Dados_Em_Python.executor": "Run",
-    "Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor": "Run",
-    "Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor": "Run",
-    "Python.desafio094-Unindo_Dicionarios_E_Listas.executor": "Run",
-    "Python.desafio095-Aprimorando_Os_Dicionarios.executor": "Run",
-    "Python.desafio096-Funcao_Que_Calcula_Area.executor": "Run",
-    "Python.desafio097-Um_Print_Especial.executor": "Run",
-    "Python.desafio098-Funcao_De_Contador.executor": "Run",
-    "Python.desafio099-Funcao_Que_Descobre_O_Maior.executor": "Run",
-    "Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor": "Run",
-    "Python.desafio101-Funcoes_Para_Votacao.executor": "Run",
-    "Python.desafio102-Funcao_Para_Fatorial.executor": "Run",
-    "Python.desafio103-Ficha_Do_Jogador-GUANABARA.executor": "Run",
-    "Python.desafio103-Ficha_Do_Jogador.executor": "Run",
-    "Python.desafio104-Validando_Entrada_De_Dados_Em_Python.executor": "Run",
-    "Python.desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.executor": "Run",
-    "Python.desafio105-Analisando_E_Gerando_Dicionarios.executor": "Run",
-    "Python.desafio106-Interactive_Helping_System_In_Python.executor": "Run",
-    "Python.desafio113-Funcoes_Aprofundadas_Em_Python.executor": "Run",
-    "Python.desafio114-Site_Esta_Acessivel.executor": "Run",
-    "Python.listar.executor": "Run",
-    "Python.menu_pt.executor": "Run",
-    "Python.moeda.executor": "Run",
-    "Python.numeros.executor": "Run",
-    "Python.programa_principal.executor": "Run",
-    "Python.sistema.executor": "Run",
-    "Python.teste.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula16a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula17c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula18a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula18b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula19a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula19b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula20e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21a.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21b.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21e.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula21f.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.aula23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cadastrar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.criador_de_arquivos_python_v2_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio072-Numero_por_Extenso.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio073-Tuplas_com_Times_de_Futebol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio074-Maior_e_Menor_em_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio074-Maior_e_Menor_em_Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio075-Analise_de_dados_em_uma_Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio076-Lista_de_Precos_com_Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio077-Contando_Vogais_em_Tupla.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio078-Maior_e_Menor_na_Lista-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio078-Maior_e_Menor_na_Lista-VERSAO2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio078-Maior_e_Menor_na_Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio079-Valores_Unicos_em_uma_Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio080-Lista_Ordenada_Sem_Repeticoes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio081-Extraindo_Dados_De_Uma_Lista.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio082-Dividindo_Valores_Em_Varias_Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio083-Validando_Expressoes_Matematicas-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio083-Validando_Expressoes_Matematicas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio084-Lista_Composta_E_Analise_De_Dados.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio085-Listas_Com_Pares_E_Impares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio086-Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio087-Mais_Sobre_Matriz_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio088-Palpites_Para_A_Mega_Sena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio089-Boletim_Com_Listas_Compostas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio090-Dicionario_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio091-Jogo_De_Dados_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio092-Cadastro_De_Trabalhador_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio093-Cadastro_De_Jogador_De_Futebol.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio094-Unindo_Dicionarios_E_Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio095-Aprimorando_Os_Dicionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio096-Funcao_Que_Calcula_Area.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio097-Um_Print_Especial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio098-Funcao_De_Contador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio099-Funcao_Que_Descobre_O_Maior.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio100-Funcoes_Para_Sortear_E_Somar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio101-Funcoes_Para_Votacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio102-Funcao_Para_Fatorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio103-Ficha_Do_Jogador-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio103-Ficha_Do_Jogador.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio104-Validando_Entrada_De_Dados_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio105-Analisando_E_Gerando_Dicionarios.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio106-Interactive_Helping_System_In_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio113-Funcoes_Aprofundadas_Em_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.desafio114-Site_Esta_Acessivel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.listar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu_pt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.moeda.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.programa_principal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sistema.executor&quot;: &quot;Run&quot;,
+    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zeze_/Dropbox/Zé/001 - Wyden - Ciência de Dados/Período 01/01 - Paradigmas de Linguagens de Programação e Python/Curso em Vídeo - Python Mundo 3/curso_em_video_python_mundo_03/desafios&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\zeze_\Dropbox\Zé\001 - Wyden - Ciência de Dados\Período 01\01 - Paradigmas de Linguagens de Programação e Python\Curso em Vídeo - Python Mundo 3\curso_em_video_python_mundo_03\desafios" />
@@ -183,15 +184,8 @@
       <workItem from="1761382035318" duration="7225000" />
       <workItem from="1761389808484" duration="10171000" />
       <workItem from="1761403413709" duration="437000" />
-      <workItem from="1761404033278" duration="17360000" />
-    </task>
-    <task id="LOCAL-00048" summary="Corrigindo a resolução do 'desafio090-Dicionario_Em_Python.py' da 'aula 19'">
-      <option name="closed" value="true" />
-      <created>1761093726524</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1761093726524</updated>
+      <workItem from="1761404033278" duration="17676000" />
+      <workItem from="1761466794167" duration="627000" />
     </task>
     <task id="LOCAL-00049" summary="Corrigindo a resolução do 'desafio091-Jogo_De_Dados_Em_Python.py' da 'aula 19'">
       <option name="closed" value="true" />
@@ -577,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761434375536</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Adicionando a versão do Guanabara do 'desafio115b' da 'aula 23'">
+      <option name="closed" value="true" />
+      <created>1761437870166</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1761437870167</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -595,7 +597,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adicionando a versão do Guanabara do 'desafio102-Funcao_Para_Fatorial.py' da 'aula 21'" />
     <MESSAGE value="Corrigindo o 'desafio104-Validando_Entrada_De_Dados_Em_Python.py' da 'aula 21'" />
     <MESSAGE value="Adicionando a versão do Guanabara do 'desafio105-Analisando_E_Gerando_Dicionarios-GUANABARA.py' da 'aula 21'" />
     <MESSAGE value="Corrigindo o 'desafio106-Interactive_Helping_System_In_Python.py' da 'aula 21'" />
@@ -620,7 +621,8 @@
     <MESSAGE value="Adicionando a resolução ao arquivo 'desafio114-Site_Esta_Acessivel.py' da 'aula 23'" />
     <MESSAGE value="Adicionando a resolução ao diretório 'desafio115' da 'aula 23'" />
     <MESSAGE value="Adicionando a versão do Guanabara do 'desafio115a' da 'aula 23'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a versão do Guanabara do 'desafio115a' da 'aula 23'" />
+    <MESSAGE value="Adicionando a versão do Guanabara do 'desafio115b' da 'aula 23'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando a versão do Guanabara do 'desafio115b' da 'aula 23'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -642,10 +644,10 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$cadastrar.coverage" NAME="cadastrar Coverage Results" MODIFIED="1761426896418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio115" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio075_Analise_de_dados_em_uma_Tupla_GUANABARA.coverage" NAME="desafio075-Analise_de_dados_em_uma_Tupla-GUANABARA Coverage Results" MODIFIED="1760683781712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio092_Cadastro_De_Trabalhador_Em_Python.coverage" NAME="desafio092-Cadastro_De_Trabalhador_Em_Python Coverage Results" MODIFIED="1761095438609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio093_Cadastro_De_Jogador_De_Futebol.coverage" NAME="desafio093-Cadastro_De_Jogador_De_Futebol Coverage Results" MODIFIED="1761132068795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$numeros.coverage" NAME="numeros Coverage Results" MODIFIED="1761333562366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos/aula22" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17a.coverage" NAME="aula17a Coverage Results" MODIFIED="1760687812216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio093_Cadastro_De_Jogador_De_Futebol.coverage" NAME="desafio093-Cadastro_De_Jogador_De_Futebol Coverage Results" MODIFIED="1761132068795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$listar.coverage" NAME="listar Coverage Results" MODIFIED="1761430009936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio115" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17a.coverage" NAME="aula17a Coverage Results" MODIFIED="1760687812216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula21e.coverage" NAME="aula21e Coverage Results" MODIFIED="1761162021549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$moeda.coverage" NAME="moeda Coverage Results" MODIFIED="1761346677312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio110" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio114_Site_Esta_Acessivel.coverage" NAME="desafio114-Site_Esta_Acessivel Coverage Results" MODIFIED="1761422076307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
@@ -708,7 +710,7 @@
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula17.coverage" NAME="aula17 Coverage Results" MODIFIED="1760687564104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio084_Lista_Composta_E_Analise_De_Dados.coverage" NAME="desafio084-Lista_Composta_E_Analise_De_Dados Coverage Results" MODIFIED="1760869776755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio096_Funcao_Que_Calcula_Area.coverage" NAME="desafio096-Funcao_Que_Calcula_Area Coverage Results" MODIFIED="1761141959475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
-    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$sistema.coverage" NAME="sistema Coverage Results" MODIFIED="1761436327887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio115G" />
+    <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$sistema.coverage" NAME="sistema Coverage Results" MODIFIED="1761467438705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios/desafio115G" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$aula18a.coverage" NAME="aula18a Coverage Results" MODIFIED="1760786720213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/exemplos" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio104_Validando_Entrada_De_Dados_Em_Python.coverage" NAME="desafio104-Validando_Entrada_De_Dados_Em_Python Coverage Results" MODIFIED="1761324198722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
     <SUITE FILE_PATH="coverage/curso_em_video_python_mundo_03$desafio086_Matriz_Em_Python.coverage" NAME="desafio086-Matriz_Em_Python Coverage Results" MODIFIED="1760873015450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/desafios" />
